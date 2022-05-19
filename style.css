@@ -1,0 +1,53 @@
+ body {
+   background-color: lightblue;
+   border-bottom: 0px;
+   border-top: 0px;
+   border-left: 30ch;
+   border-right: 700cm;
+   margin-right: 20px;
+   margin-top: 40pt;
+  margin-left: 20px;
+  }
+ 
+  .Address {
+   text-align: right;
+   width: ;
+   font-weight: 600;
+   font-size: larger;
+   text-transform: uppercase;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+  
+ .about {
+   text-align: center;
+   font-weight: 500;
+   font-size: larger;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+   
+  .Reciever {
+   text-align: left;
+   font-weight: 600;
+   font-size: larger;
+   text-transform: uppercase;
+   }
+  
+.Salutation {
+  text-align: center;
+   }
+  
+.Body {
+ text-align: left;
+ }
+  
+.conclusion {
+  text-align: right;
+  font-weight: 600;
+  }
+  .signature {
+  color: black;
+  border: cm;
+  }
+  
+  
+    
